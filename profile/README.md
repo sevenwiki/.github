@@ -1,4 +1,5 @@
 # Sevenwiki
+Sweet! Looks like seven's your lucky charm! 😄
 <!--
 
 **Here are some ideas to get you started:**
